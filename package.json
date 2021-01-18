@@ -2,9 +2,10 @@
 	"name": "google-cloud-platform-ssh",
 	"displayName": "Google Cloud Platform SSH",
 	"description": "Connect to Google Cloud VM instances automatically with Remote SSH",
-	"version": "0.0.1",
+	"version": "1.0.0",
 	"publisher": "andrewdircks",
 	"repository": "https://github.com/andrewdircks/google-cloud-platform-ssh",
+	"icon": "resources/icon.png",
 	"engines": {
 		"vscode": "^1.52.0"
 	},
